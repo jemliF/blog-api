@@ -1,0 +1,33 @@
+{
+  "name": "blog",
+  "version": "1.0.0",
+  "description": "a simple node api for a blog app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jemliF/blog-api.git"
+  },
+  "keywords": [
+    "javascript",
+    "node",
+    "express",
+    "rest",
+    "api",
+    "mongodb",
+    "mongoose"
+  ],
+  "author": "Jemli Fathi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jemliF/blog-api/issues"
+  },
+  "homepage": "https://github.com/jemliF/blog-api#readme",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0",
+    "mongoose": "^4.7.0"
+  }
+}
